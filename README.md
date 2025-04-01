@@ -41,7 +41,7 @@ Download the [latest release](https://github.com/liljaba1337/GFEUpdaterBlock/rel
 ### Why does this require administrator privileges?  
 The GeForce Experience folder is protected, so modifying files inside it requires administrator permissions.  
 
-### I don't like how it works. How do I revert everything back?  
+### I don't like how it works. How do I revert everything?  
 The software created a backup file next to the original json one. Just delete `NVIDIA GeForce Experience.json` and rename `NVIDIA GeForce Experience.json.backup` to `NVIDIA GeForce Experience.json`.
 
 ---
